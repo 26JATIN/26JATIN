@@ -31,7 +31,7 @@ sudo pacman -s tesseract-ocr-eng
 ```
 
 
-# important note
+# important note!
 ### How to run this bash script?
 1.copy Text_Extractor.sh in your home directory. \
 2.open terminal and type ./Text-Extractor.sh. \
