@@ -45,4 +45,4 @@ sudo pacman -s tesseract-ocr-eng
 
 2.Select area you want to capture text from. 
 
-3.Now assign a shortcut key ctrl+t and assign command ./Take_Screenshot.sh, so that everytime when you press ctrl+t this script executes.
+3.Now assign a shortcut key ctrl+t and assign command ./Text_Extractor.sh , so that everytime when you press ctrl+t this script executes.
