@@ -1,6 +1,10 @@
 # This Shell script allows you to extract text using screenshot in any linux desktop enviornment
 
 ## Here are few steps for different distribution to follow before using this script
+###Download script
+```
+git clone https://github.com/26JATIN/Extract-text-using-screenshot-in-linux.git
+```
 
 ### For Fedora based distribution
 
@@ -33,7 +37,9 @@ sudo pacman -s tesseract-ocr-eng
 
 # important note!
 ### How to run this bash script?
-1.copy Text_Extractor.sh in your home directory. \
-2.open terminal and type ./Text-Extractor.sh. \
-3.Select area you want to capture text from. \
-4.Now assign a shortcut key ctrl+t and assign command ./Take-Screenshot.sh, so that everytime when you press ctrl+t this script executes.
+
+1.open terminal and type ./Text-Extractor.sh. \
+
+2.Select area you want to capture text from. \
+
+3.Now assign a shortcut key ctrl+t and assign command ./Take-Screenshot.sh, so that everytime when you press ctrl+t this script executes.
