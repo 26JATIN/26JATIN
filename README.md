@@ -1,7 +1,7 @@
 # This Shell script allows you to extract text using screenshot in any linux desktop enviornment
 
 ## Here are few steps for different distribution to follow before using this script
-###Download script
+### Download script
 ```
 git clone https://github.com/26JATIN/Extract-text-using-screenshot-in-linux.git
 ```
