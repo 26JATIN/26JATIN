@@ -41,8 +41,8 @@ sudo pacman -s tesseract-ocr-eng
 # important note!
 ### How to run this bash script?
 
-1.open terminal and type ./Text_Extractor.sh. \
+1.open terminal and type ./Text_Extractor.sh. 
 
-2.Select area you want to capture text from. \
+2.Select area you want to capture text from. 
 
 3.Now assign a shortcut key ctrl+t and assign command ./Take_Screenshot.sh, so that everytime when you press ctrl+t this script executes.
