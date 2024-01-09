@@ -5,8 +5,6 @@
 ```
 git clone https://github.com/26JATIN/Extract-text-using-screenshot-in-linux.git
 mv Extract-text-using-screenshot-in-linux/Text_Extractor.sh ~/
-
-
 ```
 
 ### For Fedora based distribution
