@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Gupta</h1>
 <h3 align="center">Passionate Programmer Proficient in C, C++, and Python</h3>
-<img align="right" alt="Coding" width="400" 
-https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/223e6792880429.5e569ff84ebef.gif
+<img align="right" alt="Coding" width="400"
+  https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/223e6792880429.5e569ff84ebef.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=26jatin&label=Profile%20views&color=0e75b6&style=flat" alt="26jatin" /> </p>
 
 
