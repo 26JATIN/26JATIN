@@ -1,7 +1,9 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/223e6792880429.5e569ff84ebef.gif)
+
 <h1 align="center">Hi 👋, I'm Jatin Gupta</h1>
 <h3 align="center">Passionate Programmer Proficient in C, C++, and Python</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=26jatin&label=Profile%20views&color=0e75b6&style=flat" alt="26jatin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=26jatin&label=Profile%20views&color=0e75b6&style=flat" alt="26jatin" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,31 +13,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=26jatin&show_icons=true&locale=en&layout=compact" alt="26jatin" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=26jatin&show_icons=true&locale=en&layout=compact" alt="26jatin" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=26jatin&show_icons=true&locale=en" alt="26jatin" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=26jatin&show_icons=true&locale=en" alt="26jatin" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=26jatin&" alt="26jatin" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26jatin&" alt="26jatin" /></p>
 
 <!-- Add more sections as needed -->
